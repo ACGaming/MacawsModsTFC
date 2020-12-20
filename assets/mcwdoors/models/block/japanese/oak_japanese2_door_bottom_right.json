@@ -1,0 +1,7 @@
+{
+    "parent": "mcwdoors:block/parent/japanese2_bottom_right",
+    "textures": {
+		"0": "mcwdoors:block/oak_japanese2_door_lower",
+		"particle": "mcwdoors:block/oak_japanese2_door_lower"
+    }
+}
