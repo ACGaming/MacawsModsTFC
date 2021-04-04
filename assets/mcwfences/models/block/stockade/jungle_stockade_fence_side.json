@@ -3,8 +3,8 @@
 {
 	"parent": "mcwfences:block/parent/stockade_fence_side",
 	"textures": {
-		"4": "tfc:blocks/wood/planks/kapok",
-		"5": "tfc:blocks/wood/log/kapok",
-		"particle": "tfc:blocks/wood/planks/kapok"
+		"4": "tfc:blocks/wood/planks/sequoia",
+		"5": "tfc:blocks/wood/log/sequoia",
+		"particle": "tfc:blocks/wood/planks/sequoia"
 	}
 }

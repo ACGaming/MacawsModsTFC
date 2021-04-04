@@ -3,8 +3,8 @@
 {
 	"parent": "mcwfences:block/parent/inventory/wired_fence",
 	"textures": {
-		"1": "tfc:blocks/wood/top/kapok",
+		"1": "tfc:blocks/wood/top/sequoia",
 		"4": "mcwfences:block/wire_fence",
-		"1_texture": "tfc:blocks/wood/log/kapok"
+		"1_texture": "tfc:blocks/wood/log/sequoia"
 	}
 }

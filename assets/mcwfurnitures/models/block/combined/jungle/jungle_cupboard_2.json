@@ -2,8 +2,8 @@
 	"parent": "mcwfurnitures:block/parent/combined/cupboard_2",
 	"textures": {
         "0": "tfc:blocks/metal/wrought_iron",
-		"1": "tfc:blocks/wood/log/kapok",
-		"2": "tfc:blocks/wood/planks/kapok",
-		"particle": "tfc:blocks/wood/log/kapok"
+		"1": "tfc:blocks/wood/log/sequoia",
+		"2": "tfc:blocks/wood/planks/sequoia",
+		"particle": "tfc:blocks/wood/log/sequoia"
 	}
 }

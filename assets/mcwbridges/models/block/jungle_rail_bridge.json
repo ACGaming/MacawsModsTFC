@@ -1,9 +1,9 @@
 {
 	"parent": "mcwbridges:block/parent/rail_bridge",
 	"textures": {
-		"0": "tfc:blocks/wood/planks/kapok",
-		"1": "tfc:blocks/wood/log/kapok",
-		"2": "tfc:blocks/wood/top/kapok",
-		"particle": "tfc:blocks/wood/log/kapok"
+		"0": "tfc:blocks/wood/planks/sequoia",
+		"1": "tfc:blocks/wood/log/sequoia",
+		"2": "tfc:blocks/wood/top/sequoia",
+		"particle": "tfc:blocks/wood/log/sequoia"
 	}
 }

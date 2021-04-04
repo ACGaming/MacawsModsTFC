@@ -3,9 +3,9 @@
 {
 	"parent": "mcwfences:block/parent/inventory/horse_fence",
 	"textures": {
-		"1_texture": "tfc:blocks/wood/planks/kapok",
-		"1_1_texture": "tfc:blocks/wood/planks/kapok",
-		"particle": "tfc:blocks/wood/log/kapok",
-		"wall": "tfc:blocks/wood/log/kapok"
+		"1_texture": "tfc:blocks/wood/planks/sequoia",
+		"1_1_texture": "tfc:blocks/wood/planks/sequoia",
+		"particle": "tfc:blocks/wood/log/sequoia",
+		"wall": "tfc:blocks/wood/log/sequoia"
 	}
 }

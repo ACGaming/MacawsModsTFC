@@ -3,7 +3,7 @@
 {
 	"parent": "mcwfences:block/parent/inventory/picket_fence",
 	"textures": {
-		"5": "tfc:blocks/wood/log/kapok",
-		"particle": "tfc:blocks/wood/planks/kapok"
+		"5": "tfc:blocks/wood/log/sequoia",
+		"particle": "tfc:blocks/wood/planks/sequoia"
 	}
 }

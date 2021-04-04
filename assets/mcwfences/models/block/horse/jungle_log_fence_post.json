@@ -3,7 +3,7 @@
 {
 	"parent": "mcwfences:block/parent/log_fence_post",
 	"textures": {
-		"5": "tfc:blocks/wood/log/kapok",
-		"particle": "tfc:blocks/wood/log/kapok"
+		"5": "tfc:blocks/wood/log/sequoia",
+		"particle": "tfc:blocks/wood/log/sequoia"
 	}
 }

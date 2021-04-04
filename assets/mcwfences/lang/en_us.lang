@@ -12,10 +12,10 @@ tile.birch_stockade_fence.name=Birch Stockade Fence
 tile.birch_horse_fence.name=Birch Horse Fence
 tile.birch_wired_fence.name=Birch Wired Fence
 
-tile.jungle_picket_fence.name=Kapok Picket Fence
-tile.jungle_stockade_fence.name=Kapok Stockade Fence
-tile.jungle_horse_fence.name=Kapok Horse Fence
-tile.jungle_wired_fence.name=Kapok Wired Fence
+tile.jungle_picket_fence.name=Sequoia Picket Fence
+tile.jungle_stockade_fence.name=Sequoia Stockade Fence
+tile.jungle_horse_fence.name=Sequoia Horse Fence
+tile.jungle_wired_fence.name=Sequoia Wired Fence
 
 tile.acacia_picket_fence.name=Acacia Picket Fence
 tile.acacia_stockade_fence.name=Acacia Stockade Fence
@@ -65,7 +65,7 @@ tile.railing_end_brick_wall.name=Railing End Brick Wall
 tile.oak_highley_gate.name=Oak Highley Gate      
 tile.spruce_highley_gate.name=Spruce Highley Gate     
 tile.birch_highley_gate.name=Birch Highley Gate     
-tile.jungle_highley_gate.name=Kapok Highley Gate     
+tile.jungle_highley_gate.name=Sequoia Highley Gate     
 tile.acacia_highley_gate.name=Acacia Highley Gate     
 tile.dark_oak_highley_gate.name=Hickory Highley Gate     
 tile.crimson_highley_gate.name=Crimson Highley Gate     

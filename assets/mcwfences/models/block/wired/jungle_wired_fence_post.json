@@ -3,8 +3,8 @@
 {
 	"parent": "mcwfences:block/parent/wired_fence_post",
 	"textures": {
-		"1": "tfc:blocks/wood/top/kapok",
-		"particle": "tfc:blocks/wood/log/kapok",
-		"texture": "tfc:blocks/wood/log/kapok"
+		"1": "tfc:blocks/wood/top/sequoia",
+		"particle": "tfc:blocks/wood/log/sequoia",
+		"texture": "tfc:blocks/wood/log/sequoia"
 	}
 }

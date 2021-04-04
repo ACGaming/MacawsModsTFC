@@ -2,7 +2,7 @@
 	"parent": "mcwfurnitures:block/parent/desk_9",
 	"textures": {
 		"3": "minecraft:blocks/glass",
-		"particle": "tfc:blocks/wood/log/kapok",
-		"texture": "tfc:blocks/wood/log/kapok"
+		"particle": "tfc:blocks/wood/log/sequoia",
+		"texture": "tfc:blocks/wood/log/sequoia"
 	}
 }
