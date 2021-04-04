@@ -1,0 +1,9 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/modern_wall_post",
+	"textures": {
+		"particle": "minecraft:blocks/sandstone_top",
+		"wall": "minecraft:blocks/sandstone_top"
+	}
+}

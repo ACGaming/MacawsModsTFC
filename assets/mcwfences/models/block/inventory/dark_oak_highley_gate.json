@@ -1,0 +1,9 @@
+
+{
+	"parent": "mcwfences:block/parent/inventory/highley_gate",
+	"textures": {
+		"2": "tfc:blocks/wood/planks/hickory",
+		"particle": "tfc:blocks/wood/log/hickory",
+		"1_texture": "tfc:blocks/wood/log/hickory"
+	}
+}

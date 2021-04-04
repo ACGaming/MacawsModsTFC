@@ -1,0 +1,10 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/wired_fence_post",
+	"textures": {
+		"1": "tfc:blocks/wood/top/birch",
+		"particle": "tfc:blocks/wood/log/birch",
+		"texture": "tfc:blocks/wood/log/birch"
+	}
+}

@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "tfc:blocks/wood/planks/spruce",
 		"1": "tfc:blocks/wood/log/spruce",
-		"2": "tfc:blocks/wood/log/spruce_top",
+		"2": "tfc:blocks/wood/top/spruce",
 		"particle": "tfc:blocks/wood/log/spruce"
 	}
 }

@@ -1,0 +1,9 @@
+
+{
+	"parent": "mcwfences:block/parent/horse_fence_side",
+	"textures": {
+		"texture": "tfc:blocks/wood/planks/kapok",
+		"particle": "tfc:blocks/wood/planks/kapok",
+		"1_texture": "tfc:blocks/wood/planks/kapok"
+	}
+}

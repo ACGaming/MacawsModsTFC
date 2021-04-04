@@ -1,0 +1,10 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/railing_wall_side",
+	"textures": {
+		"2": "mcwfences:block/iron_bar",
+		"particle": "minecraft:blocks/end_bricks",
+		"wall": "minecraft:blocks/end_bricks"
+	}
+}

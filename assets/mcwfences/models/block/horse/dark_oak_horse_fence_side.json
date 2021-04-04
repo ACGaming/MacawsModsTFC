@@ -1,0 +1,9 @@
+
+{
+	"parent": "mcwfences:block/parent/horse_fence_side",
+	"textures": {
+		"texture": "tfc:blocks/wood/planks/hickory",
+		"particle": "tfc:blocks/wood/planks/hickory",
+		"1_texture": "tfc:blocks/wood/planks/hickory"
+	}
+}

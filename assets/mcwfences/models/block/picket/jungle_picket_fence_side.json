@@ -1,0 +1,10 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/picket_fence_side",
+	"textures": {
+		"2": "tfc:blocks/wood/log/kapok",
+		"particle": "tfc:blocks/wood/planks/kapok",
+		"texture": "tfc:blocks/wood/planks/kapok"
+	}
+}

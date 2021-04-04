@@ -1,0 +1,11 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/wired_fence_side",
+	"textures": {
+		"1": "tfc:blocks/wood/top/oak",
+		"4": "mcwfences:block/wire_fence",
+		"particle": "tfc:blocks/wood/log/oak",
+		"1_texture": "tfc:blocks/wood/log/oak"
+	}
+}

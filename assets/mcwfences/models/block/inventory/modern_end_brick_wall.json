@@ -1,0 +1,10 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/inventory/modern_wall",
+	"textures": {
+		"1": "minecraft:blocks/end_stone",
+		"particle": "minecraft:blocks/end_bricks",
+		"wall": "minecraft:blocks/end_bricks"
+	}
+}

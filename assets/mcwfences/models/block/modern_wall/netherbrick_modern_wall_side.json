@@ -1,0 +1,10 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/modern_wall_side",
+	"textures": {
+		"1": "minecraft:blocks/netherrack",
+		"particle": "minecraft:blocks/netherrack",
+		"wall": "minecraft:blocks/nether_brick"
+	}
+}

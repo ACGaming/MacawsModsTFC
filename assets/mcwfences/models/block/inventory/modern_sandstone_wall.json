@@ -1,0 +1,10 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/inventory/modern_wall",
+	"textures": {
+		"1": "minecraft:blocks/sandstone_normal",
+		"particle": "minecraft:blocks/sandstone_top",
+		"wall": "minecraft:blocks/sandstone_top"
+	}
+}

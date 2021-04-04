@@ -1,0 +1,10 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/modern_wall_side",
+	"textures": {
+		"1": "tfc:blocks/stonetypes/raw/diorite",
+		"particle": "tfc:blocks/stonetypes/raw/diorite",
+		"wall": "tfc:blocks/stonetypes/smooth/diorite"
+	}
+}

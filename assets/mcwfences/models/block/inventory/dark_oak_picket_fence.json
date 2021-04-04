@@ -1,0 +1,9 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/inventory/picket_fence",
+	"textures": {
+		"5": "tfc:blocks/wood/log/hickory",
+		"particle": "tfc:blocks/wood/planks/hickory"
+	}
+}
