@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/parent/rail_bridge_end",
+	"textures": {
+		"5": "tfc:blocks/wood/planks/sequoia",
+		"2": "tfc:blocks/wood/log/sequoia",
+		"6": "tfc:blocks/wood/top/sequoia",
+		"particle": "tfc:blocks/wood/log/sequoia"
+	}
+}
